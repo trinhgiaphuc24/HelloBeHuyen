@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Bé Nhi của anh à!',
     introDesc: `Trái đất vốn lạ thường
     mà sao em cứ đi nhầm đường
-    lạc vào tim anh lẻ loi,
+    lạc vào tim anh lẻ loi.,
     btnIntro: 'Hehe',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
