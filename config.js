@@ -11,7 +11,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh ?',
     btnReply: 'Gửi cho anh GPhuc nè <3',
     reply: 'Tại anh dzai quá à, lại còn đáng yêu nữa',
-    mess: 'Anh biết mà. Yêu em nhiều nhiều 😘',
+    mess: 'Anh biết em sẽ nói như vậy mà 😘',
     messDesc: 'Nếu lúc nào em thấy minh bị đần quá thì đừng lo anh sẽ là người đỡ đần cho em 🥰',
     btnAccept: 'Oki lun',
     messLink: 'https://www.facebook.com/giaphuc0402'
